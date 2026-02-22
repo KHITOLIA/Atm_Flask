@@ -1,7 +1,3 @@
 ﻿Flask
 gunicorn
 numpy
-time
-datetime
-os
-json
